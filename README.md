@@ -12,4 +12,8 @@ You can also use different mesh just changing the instance of mesh1 into the Edi
 Have fun !
 
 ![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/1.jpg)
+![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/2.jpg)
+![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/3.jpg)
+![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/4.jpg)
+![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/5.jpg)
 
