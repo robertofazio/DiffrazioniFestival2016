@@ -11,5 +11,5 @@ You can also use different mesh just changing the instance of mesh1 into the Edi
 
 Have fun !
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://dl.dropboxusercontent.com/u/10907181/githubimages/1.jpg)
 
